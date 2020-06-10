@@ -35,5 +35,5 @@ Python is a great language to start program. Your syntax is clean and easy to un
 > 7 - Make a Program that reads three numbers and shows the biggest and the smallest of them.
 > 8 - Make a program that asks the price of three products and show you which product you should buy, knowing that the decision is always for the cheapest.
 > 9 - Make a Program that reads three numbers and shows them in descending order.
-> 10 - Make a Program that asks in which shift you study. Ask to type M - morning or E - afternoon or N - night. Print the message "Good morning!", "Good afternoon!" or good night!" or "Invalid Value!", as appropriate.
+> 10 - Make a Program that asks in which shift you study. Ask to type M - morning or A - afternoon or N - night. Print the message "Good morning!", "Good afternoon!" or good night!" or "Invalid Value!", as appropriate.
 
