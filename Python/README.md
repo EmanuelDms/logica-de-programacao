@@ -29,8 +29,11 @@ Python is a great language to start program. Your syntax is clean and easy to un
 > 4. Make a Program that checks if a typed letter is a vowel or consonant.
 > 5. Make a program to read a student's two partial grades. The program should calculate the average achieved per student and present:
 >>a) The message "Approved", if the average achieved is greater than or equal to seven;
+
 >>b) The message "Reproved", if the average is less than seven;
+
 >>c) The message "Approved with Distinction", if the average is equal to ten.
+
 > 6. - Make a Program that reads three numbers and shows the biggest one.
 > 7 - Make a Program that reads three numbers and shows the biggest and the smallest of them.
 > 8 - Make a program that asks the price of three products and show you which product you should buy, knowing that the decision is always for the cheapest.
