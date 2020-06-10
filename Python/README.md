@@ -2,7 +2,7 @@
 
 Python is a great language to start program. Your syntax is clean and easy to understand.
 
-<img src="./imgs/python.png" width="250" height="252" alt="Python!">
+<img src="imgs/python.png" width="250" height="252" alt="Python!">
 
 - Summary
     - [List 1](#list-1)
