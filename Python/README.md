@@ -4,8 +4,8 @@
 - Summary
     - [List 1](#list1)
 
-
-## List 1 # {#list1}
+[](#list1)
+## List 1 
 
 > 1. Make a Program that shows the message "Hello world" on the screen.
 > 2. Make a Program that asks for a number and then displays the message "The number entered was {number}".
