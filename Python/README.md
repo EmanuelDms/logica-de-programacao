@@ -60,6 +60,7 @@ Python is a great language to start program. Your syntax is clean and easy to un
 >   - Between 4.0 and zero |   E
 
 > The algorithm must show on the screen the grades, the average, the corresponding concept and the message “APPROVED” if the concept is A, B or C or “FAILED” if the concept is D or E.
+
 > 4. Make a Program that asks for the 3 sides of a triangle. The program should inform if the values can be a triangle. Indicate, if the sides form a triangle, if it is: equilateral, isosceles or scalene.
 > - Tips:
 >   - Three sides form a triangle when the sum of any two sides is greater than the third;
