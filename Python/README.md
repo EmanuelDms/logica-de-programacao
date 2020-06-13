@@ -52,12 +52,13 @@ Python is a great language to start program. Your syntax is clean and easy to un
 
 > 2. Make a Program that reads a number and displays the corresponding day of the week. If you enter another value, it should be shown: 'invalid value'. Consider that the month starts on Sunday.
 > 3. Make a program that reads two values obtained by a student in a discipline over the course of a semester, and calculate their average. The attribution of concepts follows the table below:
->- Average Utilization   | Concept
+>- Average Utilization     | Concept
 >   - Between 9.0 and 10.0 |   A
 >   - Between 7.5 and 9.0  |   B
 >   - Between 6.0 and 7.5  |   C
 >   - Between 4.0 and 6.0  |   D
 >   - Between 4.0 and zero |   E
+
 > The algorithm must show on the screen the grades, the average, the corresponding concept and the message “APPROVED” if the concept is A, B or C or “FAILED” if the concept is D or E.
 > 4. Make a Program that asks for the 3 sides of a triangle. The program should inform if the values can be a triangle. Indicate, if the sides form a triangle, if it is: equilateral, isosceles or scalene.
 > - Tips:
