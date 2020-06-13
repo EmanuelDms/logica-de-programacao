@@ -7,6 +7,7 @@ Python is a great language to start program. Your syntax is clean and easy to un
 - Summary
     - [List 1](#list-1)
     - [List 2](#list-2)
+    - [List 3](#list-3)
 
 ## List 1 
 
@@ -40,3 +41,33 @@ Python is a great language to start program. Your syntax is clean and easy to un
 > 9. Make a Program that reads three numbers and shows them in descending order.
 > 10. Make a Program that asks in which shift you study. Ask to type M - morning or A - afternoon or N - night. Print the message "Good morning!", "Good afternoon!" or good night!" or "Invalid Value!", as appropriate.
 
+## List 3
+
+> 1. Make a program for the calculation of a payroll, knowing that the discounts are from the Income Tax, which depends on the gross salary (as shown in the table below) and 3% for the Union and that the FGTS corresponds to 11% of the salary gross. The Net Salary corresponds to the Gross Salary less discounts. The program should ask the user for the value of their hour and the number of hours worked in the month.
+> - Income Tax Discount:
+>   - Gross salary up to 900 (inclusive) - exempt
+>   - Gross Salary up to 1500 (inclusive) - 5% discount
+>   - Gross Salary up to 2500 (inclusive) - 10% discount
+>   - Gross Salary above 2500 - 20% discount
+
+> 2. Make a Program that reads a number and displays the corresponding day of the week. If you enter another value, it should be shown: 'invalid value'. Consider that the month starts on Sunday.
+> 3. Make a program that reads two values obtained by a student in a discipline over the course of a semester, and calculate their average. The attribution of concepts follows the table below:
+>- Average Utilization   | Concept
+>   Between 9.0 and 10.0 |   A
+>   Between 7.5 and 9.0  |   B
+>   Between 6.0 and 7.5  |   C
+>   Between 4.0 and 6.0  |   D
+>   Between 4.0 and zero |   E
+> The algorithm must show on the screen the grades, the average, the corresponding concept and the message “APPROVED” if the concept is A, B or C or “FAILED” if the concept is D or E.
+> 4. Make a Program that asks for the 3 sides of a triangle. The program should inform if the values can be a triangle. Indicate, if the sides form a triangle, if it is: equilateral, isosceles or scalene.
+> - Tips:
+>   - Three sides form a triangle when the sum of any two sides is greater than the third;
+>   - Types of Triangle:
+>       - Equilateral Triangle: three equal sides;
+>       - Isosceles Triangle: any two equal sides;
+>       - Scalene Triangle: three different sides;
+> 5. Make a program that calculates the roots of a second degree equation, in the form ax2 + bx + c. The program should ask for the values ​​of a, b and c and make the calc, informing the user in the following situations:
+> - If the user reports the value of A equal to zero, the equation is not of the second degree and the program should not ask for the other values, being closed;
+> - If the calculated delta is negative, the equation has no real roots. Inform the user and close the program;
+> - If the calculated delta is equal to zero, the equation has only one real root; inform the user;
+> - If the delta is positive, the equation has two real roots; inform the user;
