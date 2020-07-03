@@ -124,6 +124,7 @@ Python is a great language to start program. Your syntax is clean and easy to un
 >>**Marital Status**: ***S*** (single), ***M*** (married), ***W*** (widower), ***D*** (divorced);
 
 >**4.** Assuming that the population of country A is of the order of 80,000 inhabitants with an annual growth rate of 3% and that the population of B is 200,000 inhabitants with a growth rate of 1.5%. Make a program that calculates and writes the number of years needed for the population of country A to exceed or equal the population of country B, while maintaining growth rates.<br>
+
 >**5.** Change the previous program allowing the user to inform the populations and the initial growth rates. Validate the entry and allow the operation to be repeated.
 
 >**6.** Make a program that prints the numbers from 1 to 20, one below the other. Then modify the program so that it shows the numbers next to each other.
