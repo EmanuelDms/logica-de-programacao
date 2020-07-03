@@ -120,4 +120,15 @@ Python is a great language to start program. Your syntax is clean and easy to un
 >>**Salary**: *bigger than 0*;<br>
 >>**Marital Status**: ***S*** (single), ***M*** (married), ***W*** (widower), ***D*** (divorced);
 
->**4.** Assuming that the population of country A is of the order of 80,000 inhabitants with an annual growth rate of 3% and that the population of B is 200,000 inhabitants with a growth rate of 1.5%. Make a program that calculates and writes the number of years needed for the population of country A to exceed or equal the population of country B, while maintaining growth rates.
+>**4.** Assuming that the population of country A is of the order of 80,000 inhabitants with an annual growth rate of 3% and that the population of B is 200,000 inhabitants with a growth rate of 1.5%. Make a program that calculates and writes the number of years needed for the population of country A to exceed or equal the population of country B, while maintaining growth rates.<br>
+>**5.** Change the previous program allowing the user to inform the populations and the initial growth rates. Validate the entry and allow the operation to be repeated.
+
+>**6.** Make a program that prints the numbers from 1 to 20, one below the other. Then modify the program so that it shows the numbers next to each other.
+
+>**7.** Make a program that read 5 numbers and shows the biggest.
+
+>**8.** Make a program that reads 5 numbers and gives a sum and an average of the numbers.
+
+>**9.** Make a program that prints on the screen only the odd numbers between 1 and 50.
+
+>**10.** Make a program that receives two integer numbers and generates the integer numbers which are in the range between them.
