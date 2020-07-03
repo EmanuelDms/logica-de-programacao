@@ -112,12 +112,13 @@ Python is a great language to start program. Your syntax is clean and easy to un
 
 >**1.** Make a program that asks for enter a value between zero and ten. Show a message if the value is invalid and keep asking until the user enters a valid value.
 
->**2.** Make a program that reads a username and password and does not accept the same password as the username. If this happen, show an error and asking for the information again.
+>**2.** Make a program that reads a username and password and verify if the username is equal of password. If this happen, show an error and asking for the information again.
 
 >**3.** Make a program that read and valid theses information:
 >>**Name**: *bigger than 3 characters*;<br>
 >>**Age**: *between 0 and 150*;<br>
 >>**Salary**: *bigger than 0*;<br>
+>>**Genre**: ***M*** *for Man and* ***W*** *for Woman*;<br>
 >>**Marital Status**: ***S*** (single), ***M*** (married), ***W*** (widower), ***D*** (divorced);
 
 >**4.** Assuming that the population of country A is of the order of 80,000 inhabitants with an annual growth rate of 3% and that the population of B is 200,000 inhabitants with a growth rate of 1.5%. Make a program that calculates and writes the number of years needed for the population of country A to exceed or equal the population of country B, while maintaining growth rates.<br>
