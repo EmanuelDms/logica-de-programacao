@@ -6,10 +6,12 @@ Python is a great language to start program. Your syntax is clean and easy to un
     src="../imgs/python.png" width="250" height="252" alt="Python!">
 
 ## Summary
-- [List 1](#list-1)
-- [List 2](#list-2)
-- [List 3](#list-3)
-- [List 4](#list-4)
+
+   - [List 1](#list-1)
+   - [List 2](#list-2)
+   - [List 3](#list-3)
+   - [List 4](#list-4)
+   - [List 5](#list-5)
 
 ### List 1
 
@@ -133,3 +135,13 @@ Python is a great language to start program. Your syntax is clean and easy to un
 >**9.** Make a program that prints on the screen only the odd numbers between 1 and 50.
 
 >**10.** Make a program that receives two integer numbers and generates the integer numbers which are in the range between them.
+
+### List 5
+
+[Back to top](#python)
+
+>**1.** Make a program that asks for two numbers, base and exponent, calculate and show the first number raised to the second number. Do not use the language power function.
+
+>**2.** Make a program that asks for 10 integer numbers, calculate and show the number of even numbers and the number of odd numbers.
+
+>**3.** Make a program that calculates the factorial of an integer provided by the user. <br> Example: 5! = 5 * 4 * 3 * 2 * 1 = 120
