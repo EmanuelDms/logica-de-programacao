@@ -12,6 +12,7 @@ Python is a great language to start program. Your syntax is clean and easy to un
    - [List 3](#list-3)
    - [List 4](#list-4)
    - [List 5](#list-5)
+   - [List 6](#list-6)
 
 ### List 1
 
@@ -146,3 +147,17 @@ Python is a great language to start program. Your syntax is clean and easy to un
 >**2.** Make a program that asks for 10 integer numbers, calculate and show the number of even numbers and the number of odd numbers.
 
 >**3.** Make a program that calculates the factorial of an integer provided by the user. <br> Example: 5! = 5 * 4 * 3 * 2 * 1 = 120
+
+### List 6
+
+[Back to top](#python)
+
+>**1.** Make a program that reads a vector of 5 integer numbers and shows them.
+
+>**2.** Make a program that reads a vector of 10 real numbers and shows them in reverse order.
+
+>**3.** Make a program that reads 4 notes, shows the notes and the average on the screen.
+
+>**4.**  Make a program that reads a 10 character vector and tells you how many consonants were saved. Print as consonants.
+
+>**5.** Make a program that reads 20 integgernumbers and stores them in a vector. Store the even numbers in the even vector and the odd numbers in the odd vector. Print the three vectors.
