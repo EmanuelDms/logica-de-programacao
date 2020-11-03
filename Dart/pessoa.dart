@@ -5,11 +5,21 @@
  * - Idade
  */
 class Pessoa {
-  String nome;
-  String cpf;
-  int idade;
+// mudar idade para dtNascimento
 
-  Pessoa(this.nome, this.cpf, this.idade);
+  String _nome;
+  String _cpf;
+  int _idade;
+
+  Pessoa(nome, cpf, idade);
+
+  String get nome => _nome;
+
+  String get cpf => _cpf;
+
+  int get idade => _idade;
+
+  set idade(int idade) => _idade;
 
   void fazAniversario() {
     ++idade;
