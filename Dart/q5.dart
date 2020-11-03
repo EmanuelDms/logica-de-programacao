@@ -1,27 +1,10 @@
-// Script que retorna antecessor
+/**
+ * Ler o valor antecessor do teclado
+ * - letras e números
+ */
 
-retornaAntecessor(dynamic inputValue, bool type, {dynamic object}) {
-  // 0 => alfabeto | 1 => números
-
-  dynamic result = inputValue;
-  if (type) {
-    var count = object.length;
-
-    if (inputValue == object[0]) return 'Invalid Value';
-    for (var i = 0; i < count; i++) {
-      if (object[i] == inputValue) {
-        result = object[i - 1];
-      }
-    }
-    if (result == inputValue) return 'No character found';
-    return result;
-  }
-  return result = result - 1;
-}
-
-void main() {
-  // com alfabeto
-  List<String> alfabeto = [
+retornaAntecessor(dynamic value) {
+  List<String> alpha = const [
     'a',
     'b',
     'c',
@@ -29,6 +12,7 @@ void main() {
     'e',
     'f',
     'g',
+    'h',
     'i',
     'j',
     'k',
@@ -49,9 +33,16 @@ void main() {
     'z'
   ];
 
-  // Para números
-  print(retornaAntecessor(12, false));
+  dynamic result;
+  if (value is String) {
+    int i = 0;
+    for (var val in alpha) {
+      result = (value == val) ? alpha[i - 1] : result;
+      i++;
+    }
+  } else if (value is int) result = value - 1;
 
-  // Para Alfabeto
-  print(retornaAntecessor('f', true, object: alfabeto));
+  return result ?? 'invalid';
 }
+
+void main() => print(retornaAntecessor(100));
