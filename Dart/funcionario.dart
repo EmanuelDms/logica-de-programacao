@@ -3,14 +3,9 @@
 class Funcionario {
   double salario;
   double comissao;
-
   double carrosVendidos;
-  double valorTotalDasVendas;
 
-  Funcionario(double salario, double comissao) {
-    this.salario = salario;
-    this.comissao = comissao;
-  }
+  Funcionario(this.salario, this.comissao, this.carrosVendidos);
 
   double getValorTotalDasVendas() {
     return this.carrosVendidos * this.comissao;

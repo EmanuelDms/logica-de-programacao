@@ -6,7 +6,6 @@ void main() {
   // vendedor.comissao(10.25, 10);
   // print(vendedor.salario);
 
-  Funcionario funcionario = Funcionario(1000, 100);
-  funcionario.carrosVendidos = 2;
+  Funcionario funcionario = Funcionario(1000, 100, 2);
   print(funcionario.getSalarioFinal());
 }
